@@ -1,9 +1,5 @@
 <Project for 42 Lisboa>  
 
-# push_swap  
-This implementation can solve the push_swap project with very few moves while also  
-accepting any type of input as long as all diferent numbers are between INT_MAX & INT_MIN.  
-  
 # USAGE  
 ```bash
 git clone git@github.com:gde-alme/push_swap.git
